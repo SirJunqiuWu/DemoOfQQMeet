@@ -10,7 +10,7 @@
 #import "MDCSwipeToChoose.h"
 #import "Person.h"
 
-
+//可以对该view进行定制
 @interface ChoosePersonView : MDCSwipeToChooseView
 
 /**
